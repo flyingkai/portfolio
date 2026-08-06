@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://kaixiang.info/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://kaixiang.info/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://kaixiang.info/</loc>
+<loc>http://kaixiang.info/</loc>
 </url>
 <url>
-<loc>https://kaixiang.info/contact.html</loc>
+<loc>http://kaixiang.info/contact.html</loc>
 <lastmod>2026-08-06T15:27:47+08:00</lastmod>
 </url>
 <url>
-<loc>https://kaixiang.info/curios.html</loc>
+<loc>http://kaixiang.info/curios.html</loc>
 <lastmod>2026-08-06T15:27:41+08:00</lastmod>
 </url>
 <url>
-<loc>https://kaixiang.info/journalism.html</loc>
+<loc>http://kaixiang.info/journalism.html</loc>
 <lastmod>2026-08-06T15:27:38+08:00</lastmod>
 </url>
 <url>
-<loc>https://kaixiang.info/research.html</loc>
+<loc>http://kaixiang.info/research.html</loc>
 <lastmod>2026-08-06T15:28:57+08:00</lastmod>
 </url>
 </urlset>
